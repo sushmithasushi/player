@@ -1,5 +1,6 @@
 #a
-n=int(input())
+n1=int(input())
+n=n1
 d1=input()
 d1=d1.split()
 l1=[]
